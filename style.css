@@ -47,7 +47,7 @@ body{
     font-weight: 400;
 }
 
-#cards{
+#card{
     display: flex;
 }
 
@@ -273,6 +273,7 @@ footer{
 @media screen and (max-height:670px){
     footer{
         position: relative;
+        top: 100px;   
     }
 }
 
